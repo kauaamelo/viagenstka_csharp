@@ -1,0 +1,6 @@
+@Viagenstka_HostAddress = http://localhost:5237
+
+GET {{Viagenstka_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
